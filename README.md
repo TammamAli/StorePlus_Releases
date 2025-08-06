@@ -22,7 +22,7 @@
 - **.NET Framework**: 4.8  
 - **Database**: SQL Server 2014 (or compatible)  
 - **RAM**: 4GB (8GB recommended)  
-- **Storage**: [Specify storage requirements]  
+- **Storage**: [2 GB SSD]  
 - **Display**: 1366×768 resolution  
 
 ### Dependencies:  
